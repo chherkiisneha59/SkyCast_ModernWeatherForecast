@@ -16,6 +16,16 @@ A beautiful, production-ready weather application built with React, Tailwind CSS
 
 ---
 
+## 📸 Screenshots
+
+### Real-Time Weather Dashboard
+![SkyCast Dashboard](screenshots/dashboard.png)
+
+### Hourly & 5-Day Extended Forecasts
+![SkyCast Forecast](screenshots/forecast.png)
+
+---
+
 ## ✨ Features
 
 ### 🌦️ Core Weather
